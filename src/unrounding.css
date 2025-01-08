@@ -20,12 +20,6 @@
 }
 
 /* hide status indicators */
-[class^='mask_'] > rect,
-[class^='mask_'] > circle,
-[class^='mask_'] > svg,
-.container_e85446 > [class^='svg_'] > foreignObject > [class^='status_'] {
-	display: none;
-}
 
 /* re-add status indicators */
 
