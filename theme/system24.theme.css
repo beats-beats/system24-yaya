@@ -12,7 +12,6 @@
 
 /* import theme modules */
 @import url('https://raw.githubusercontent.com/beats-beats/system24-yaya/refs/heads/main/src/main.css'); /* main theme css. DO NOT REMOVE */
-@import url('https://raw.githubusercontent.com/beats-beats/system24-yaya/refs/heads/main/src/unrounding.css'); /* gets rid of all rounded corners. remove if you want rounded corners. */
 
 /* customize things here */
 :root {
